@@ -1,0 +1,6 @@
+C:\Users\ЛипянинВладиславГриг\Documents\Visual Studio 2015\Projects\Курсовая работа\Elliptic Curves\ElCurvesTest\bin\Debug\ElCurvesTest.exe.config
+C:\Users\ЛипянинВладиславГриг\Documents\Visual Studio 2015\Projects\Курсовая работа\Elliptic Curves\ElCurvesTest\bin\Debug\ElCurvesTest.exe
+C:\Users\ЛипянинВладиславГриг\Documents\Visual Studio 2015\Projects\Курсовая работа\Elliptic Curves\ElCurvesTest\bin\Debug\ElCurvesTest.pdb
+C:\Users\ЛипянинВладиславГриг\Documents\Visual Studio 2015\Projects\Курсовая работа\Elliptic Curves\ElCurvesTest\obj\Debug\ElCurvesTest.csprojResolveAssemblyReference.cache
+C:\Users\ЛипянинВладиславГриг\Documents\Visual Studio 2015\Projects\Курсовая работа\Elliptic Curves\ElCurvesTest\obj\Debug\ElCurvesTest.exe
+C:\Users\ЛипянинВладиславГриг\Documents\Visual Studio 2015\Projects\Курсовая работа\Elliptic Curves\ElCurvesTest\obj\Debug\ElCurvesTest.pdb
